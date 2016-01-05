@@ -1,4 +1,3 @@
-thegreyrepo
+thegreyrepository
 ===========
 
-Coursera course work
